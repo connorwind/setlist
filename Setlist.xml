@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="setlist.css"?>
+
+<coverbandsetlist>
+<coverband>
+    <coverbandname> Jukebox the Ghost HalloQueen Setlist</coverbandname>
+    <banddescription> Jukebox The Ghost is a popular alt rock band. Every year for halloween the 
+            band performs a 'HalloQueen' concert. They dress up as the band Queen and perform 
+            a set of Queen songs as well as a couple of their own songs. </banddescription>
+</coverband>
+<setlist>
+    <song> Song One 
+        <songname> Victoria </songname>
+        <origartist> Jukebox The Ghost </origartist>
+        <songdescription> Jukebox the Ghost's hit song from their first album.
+                          Let Live &amp; Let Ghost. </songdescription>
+        <yearrelease> 2008 </yearrelease>
+        <genre> Alt Rock </genre>
+    </song>
+    <song> Song Two 
+        <songname> We Will Rock You </songname>
+        <origartist> Queen </origartist>
+        <songdescription> The first song on the explosive Queen album, News of The World.
+        </songdescription>
+        <yearrelease> 1977 </yearrelease>
+        <genre> Rock </genre>
+    </song>  
+
+    <song> Song Three 
+        <songname> Under Pressure </songname>
+        <origartist> Queen </origartist>
+        <songdescription> Under Pressure is Queen's smash hit collaboration with David Bowie.
+        </songdescription>
+        <yearrelease> 1982 </yearrelease>
+        <genre> Rock </genre>
+    </song> 
+
+    <song> Song Four 
+        <songname> Play the Game</songname>
+        <origartist> Queen </origartist>
+        <songdescription> The first song and popular mellow ballad on the Queen album, The Game. 
+        </songdescription>
+        <yearrelease> 1980 </yearrelease>
+        <genre> Rock </genre>
+    </song> 
+
+    <song> Song Five 
+        <songname> Crazy Little Thing Called Love </songname>
+        <origartist> Queen </origartist>
+        <songdescription> A wonderful acoustic detour away from Queen's usual electric guitar 
+                          riffs. On the album The Game.
+        </songdescription>
+        <yearrelease> 1980 </yearrelease>
+        <genre> Rock </genre>
+    </song> 
+
+    <song> Song Six 
+        <songname> Bicycle Race </songname>
+        <origartist> Queen </origartist>
+        <songdescription> BICYCLE! BICYCLE! Originally released as a single alongside 
+                        Fat Bottomed Girls and later as on the album Jazz.
+        </songdescription>
+        <yearrelease> 1978 </yearrelease>
+        <genre> Rock </genre>
+    </song> 
+
+    <song> Song Seven 
+        <songname> Somebody To Love </songname>
+        <origartist> Queen </origartist>
+        <songdescription> Most Popular song from the album A Day At The Races. 
+        </songdescription>
+        <yearrelease> 1976 </yearrelease>
+        <genre> Rock </genre>
+    </song> 
+
+    <song> Song Eight 
+        <songname> Another One Bites The Dust </songname>
+        <origartist> Queen </origartist>
+        <songdescription> Features stellar vocals and of the most famous bass guitar riffs ever recorded. On the album The Game. 
+        </songdescription>
+        <yearrelease> 1980 </yearrelease>
+        <genre> Rock </genre>
+    </song> 
+
+    <song> Song Nine 
+        <songname> I Want To Break Free </songname>
+        <origartist> Queen </origartist>
+        <songdescription> An anthem agaist oppression and bad relationships on the album The Works .
+        </songdescription>
+        <yearrelease> 1977 </yearrelease>
+        <genre> Rock </genre>
+    </song> 
+
+    <song> Song Ten 
+        <songname> Don't Stop Me Now </songname>
+        <origartist> Queen </origartist>
+        <songdescription> One of the most positive and upeat songs of all time. Off the album Jazz.
+        </songdescription>
+        <yearrelease> 1978 </yearrelease>
+        <genre> Rock </genre>
+    </song> 
+
+    <song> Song Eleven
+        <songname> Bohemian Rhapsody </songname>
+        <origartist> Queen </origartist>
+        <songdescription> Queen's most iconic and popular song. A masterpiece off the album A Night At The Opera.
+        </songdescription>
+        <yearrelease> 1975 </yearrelease>
+        <genre> Rock </genre>
+    </song> 
+    </setlist>
+</coverbandsetlist>
